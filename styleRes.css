@@ -1,0 +1,55 @@
+body {
+    background-image: url(Images/restaurant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    .navbar {
+        display: flex;
+        background-color: black;
+        overflow: hidden;
+    }
+    .navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+    }
+    .navbar a:hover{
+        background-color: #ddd;
+        color: black;
+    }
+    .content {
+        padding: 20px;
+    }
+    .section{
+       
+        padding: 20px;
+        margin: 20px 0;
+    }
+    
+}
+.A{
+color: rgb(0, 0, 0);
+text-align: center;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    padding-top: 45px ;
+}
+header{
+    color: white;
+    text-align: center;
+    padding: 14px 700px 14px 20px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.B{
+    color: rgb(130, 158, 251);
+}
+h3{
+    color: rgb(0, 0, 0);
+}

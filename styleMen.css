@@ -1,0 +1,101 @@
+
+#div5{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/th.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center ;
+    color: rgb(45, 93, 93);
+    font-size: 23px;
+}
+#div6{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/th\ \(1\).jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+}
+#div7{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/th\ \(3\).jpg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center;
+    color: rgb(228, 255, 255);
+    font-size: 23px;
+}
+.Main_div{
+display: flex;
+flex: wrap;
+
+}
+.navbar {
+    display: flex;
+    background-color: black;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: #ddd;
+    color: black;
+}
+header{
+    color: white;
+    text-align: center;
+    padding: 14px 700px 14px 20px;
+}
+
+#div1{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/th.jpeg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center ;
+    color: rgb(45, 93, 93);
+    font-size: 23px;
+}
+#div2{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/th\ \(1\).jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+}
+#div3{
+    width: 300px;
+    height: 200px;
+
+    background-image: url(Images/Strawberry\ Milk\ Tea.jpeg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    padding: 0%;
+    text-align: center;
+    color: rgb(9, 8, 9);
+    font-size: 23px;
+}
